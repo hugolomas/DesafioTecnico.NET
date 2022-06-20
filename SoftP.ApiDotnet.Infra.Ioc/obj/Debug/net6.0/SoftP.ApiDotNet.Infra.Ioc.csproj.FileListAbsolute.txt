@@ -1,0 +1,17 @@
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\bin\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.deps.json
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\bin\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.dll
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\bin\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.pdb
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\bin\Debug\net6.0\SoftP.ApiDotNet.Application.dll
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\bin\Debug\net6.0\SoftP.ApiDotNet.Domain.dll
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\bin\Debug\net6.0\SoftP.ApiDotNet.Application.pdb
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\bin\Debug\net6.0\SoftP.ApiDotNet.Domain.pdb
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.csproj.AssemblyReference.cache
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.AssemblyInfo.cs
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.csproj.CopyComplete
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.dll
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\refint\SoftP.ApiDotNet.Infra.Ioc.dll
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\SoftP.ApiDotNet.Infra.Ioc.pdb
+C:\Users\Hugo Lomas\source\repos\SoftplanChallenge\SoftP.ApiDotnet.Infra.Ioc\obj\Debug\net6.0\ref\SoftP.ApiDotNet.Infra.Ioc.dll

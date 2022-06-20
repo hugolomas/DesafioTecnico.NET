@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LayPtfzxQWClUeEONWIEDEa0TYrE13blvbKjnKwI1uxKywYA50J6bpkDtnvzjWk15mgvcN7abPonY4Xkd1Pmew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Infra.Ioc\\SoftP.ApiDotNet.Infra.Ioc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo Lomas\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512",
+    "C:\\Users\\Hugo Lomas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Lomas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Lomas\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hugo Lomas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

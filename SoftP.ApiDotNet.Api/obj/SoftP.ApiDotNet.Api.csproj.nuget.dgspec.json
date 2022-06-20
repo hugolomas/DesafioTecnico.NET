@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotNet.Api\\SoftP.ApiDotNet.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotNet.Api\\SoftP.ApiDotNet.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotNet.Api\\SoftP.ApiDotNet.Api.csproj",
+        "projectName": "SoftP.ApiDotNet.Api",
+        "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotNet.Api\\SoftP.ApiDotNet.Api.csproj",
+        "packagesPath": "C:\\Users\\Hugo Lomas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotNet.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hugo Lomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sicoobcredicitrus/_packaging/Credicitrus%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/superainovacoes/sitemercado/_packaging/sm-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Infra.Ioc\\SoftP.ApiDotNet.Infra.Ioc.csproj": {
+                "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Infra.Ioc\\SoftP.ApiDotNet.Infra.Ioc.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Application\\SoftP.ApiDotNet.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Application\\SoftP.ApiDotNet.Application.csproj",
+        "projectName": "SoftP.ApiDotNet.Application",
+        "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Application\\SoftP.ApiDotNet.Application.csproj",
+        "packagesPath": "C:\\Users\\Hugo Lomas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hugo Lomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sicoobcredicitrus/_packaging/Credicitrus%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/superainovacoes/sitemercado/_packaging/sm-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotNet.Domain.csproj": {
+                "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotNet.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Infra.Ioc\\SoftP.ApiDotNet.Infra.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Infra.Ioc\\SoftP.ApiDotNet.Infra.Ioc.csproj",
+        "projectName": "SoftP.ApiDotNet.Infra.Ioc",
+        "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Infra.Ioc\\SoftP.ApiDotNet.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Hugo Lomas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Infra.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hugo Lomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sicoobcredicitrus/_packaging/Credicitrus%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/superainovacoes/sitemercado/_packaging/sm-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Application\\SoftP.ApiDotNet.Application.csproj": {
+                "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Application\\SoftP.ApiDotNet.Application.csproj"
+              },
+              "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotNet.Domain.csproj": {
+                "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotNet.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotNet.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotNet.Domain.csproj",
+        "projectName": "SoftP.ApiDotNet.Domain",
+        "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotNet.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hugo Lomas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hugo Lomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/sicoobcredicitrus/_packaging/Credicitrus%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/superainovacoes/sitemercado/_packaging/sm-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

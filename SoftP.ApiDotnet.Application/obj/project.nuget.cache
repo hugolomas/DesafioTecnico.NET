@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "azbIyGSuhXAHC+QnHaH9sezix4prPKpVjmwI00x8lltRfRH8b+/vdSxzXuVCacziDNbJk7v01as8K4e5073cQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.ApiDotnet.Application\\SoftP.ApiDotNet.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo Lomas\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
