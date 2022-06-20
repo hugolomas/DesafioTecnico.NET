@@ -34,10 +34,8 @@ namespace SoftP.ApiDotNet.Application.Services
             // Valor Inicial * (1 + juros) ^ Tempo
           
             financeDTO.Total = string.Format("{0:0.##}", (double)financeDTO.InitialInvestiment * Math.Pow((double)(1 + financeDTO.InterestRate), (double)financeDTO.TimeInMonths));
-            //return result não a classe.
-            var resultService = ResultService.Ok(financeDTO);
 
-            return resultService;
+            return ResultService.Ok(financeDTO);
         }
     }
 }
