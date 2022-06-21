@@ -16,7 +16,7 @@ porém, fiz também uma implementação para calcular o juros compostos com apor
 - .net Core 6
 - Validações com FluentValidation na camada de DTO (Data Transfer Object)
 - Testes unitários com xUnit
-- Docker
+- [Docker](https://hub.docker.com/repository/docker/hugoherrero/repo-backend-finance)
 
 ---
 
