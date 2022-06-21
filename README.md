@@ -11,7 +11,7 @@
 A proposta deste projeto visa calcular juros compostos e também retornar fixo a taxa mensal de juros,
 porém, fiz também uma implementação para calcular o juros compostos com aporte mensal.
 
-## Tech usadas nesse projeto
+## Techs usadas nesse projeto
 
 - .net Core 6
 - Validações com FluentValidation na camada de DTO (Data Transfer Object)
