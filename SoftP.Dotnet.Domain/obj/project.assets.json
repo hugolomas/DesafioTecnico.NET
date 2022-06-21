@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotnet.Domain.csproj",
-      "projectName": "SoftP.ApiDotnet.Domain",
-      "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotnet.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotNet.Domain.csproj",
+      "projectName": "SoftP.ApiDotNet.Domain",
+      "projectPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\SoftP.ApiDotNet.Domain.csproj",
       "packagesPath": "C:\\Users\\Hugo Lomas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hugo Lomas\\source\\repos\\SoftplanChallenge\\SoftP.Dotnet.Domain\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftP.ApiDotNet.Domain", "SoftP.Dotnet.Domain\SoftP.ApiDotNet.Domain.csproj", "{F6DE2183-16CC-42E7-B9F3-5826BE246597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftP.ApiDotNet.Domain", "SoftP.Dotnet.Domain\SoftP.ApiDotNet.Domain.csproj", "{F6DE2183-16CC-42E7-B9F3-5826BE246597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftP.ApiDotNet.Application", "SoftP.ApiDotnet.Application\SoftP.ApiDotNet.Application.csproj", "{929E4F82-961B-4359-806B-51C83C9EFE37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftP.ApiDotNet.Application", "SoftP.ApiDotnet.Application\SoftP.ApiDotNet.Application.csproj", "{929E4F82-961B-4359-806B-51C83C9EFE37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftP.ApiDotNet.Infra.Ioc", "SoftP.ApiDotnet.Infra.Ioc\SoftP.ApiDotNet.Infra.Ioc.csproj", "{4D92BC14-02F5-4659-9723-97495004FA2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftP.ApiDotNet.Infra.Ioc", "SoftP.ApiDotnet.Infra.Ioc\SoftP.ApiDotNet.Infra.Ioc.csproj", "{4D92BC14-02F5-4659-9723-97495004FA2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftP.ApiDotNet.Api", "SoftP.ApiDotNet.Api\SoftP.ApiDotNet.Api.csproj", "{A6229C29-A587-442C-B4AC-B99395B071A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftP.ApiDotNet.Api", "SoftP.ApiDotNet.Api\SoftP.ApiDotNet.Api.csproj", "{A6229C29-A587-442C-B4AC-B99395B071A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftP.ApiDotNet.Test", "SoftP.ApiDotNet.Test\SoftP.ApiDotNet.Test.csproj", "{054F79B6-9481-4858-8AFD-6B6F07E6FB89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A6229C29-A587-442C-B4AC-B99395B071A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6229C29-A587-442C-B4AC-B99395B071A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6229C29-A587-442C-B4AC-B99395B071A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054F79B6-9481-4858-8AFD-6B6F07E6FB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054F79B6-9481-4858-8AFD-6B6F07E6FB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054F79B6-9481-4858-8AFD-6B6F07E6FB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054F79B6-9481-4858-8AFD-6B6F07E6FB89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

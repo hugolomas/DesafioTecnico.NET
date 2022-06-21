@@ -9,7 +9,7 @@ namespace SoftP.ApiDotNet.Api.Controllers
         [HttpGet]
         public async Task<ActionResult> GetShowMeTheCode()
         {
-            var result = "https://github.com/hugolomas";
+            var result = "https://github.com/hugolomas/DesafioTecnico.NET";
 
             return Ok(result);
         }

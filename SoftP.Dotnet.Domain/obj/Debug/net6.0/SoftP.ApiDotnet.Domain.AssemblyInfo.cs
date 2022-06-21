@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SoftP.ApiDotnet.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SoftP.ApiDotNet.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("SoftP.ApiDotnet.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SoftP.ApiDotnet.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("SoftP.ApiDotNet.Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SoftP.ApiDotNet.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

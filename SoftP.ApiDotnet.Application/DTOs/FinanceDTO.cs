@@ -12,7 +12,7 @@ namespace SoftP.ApiDotNet.Application.DTOs
         public decimal MonthlyContribuition { get; set; }
         public int TimeInMonths { get; set; }
         public decimal InterestRate { get; set; }
-        public string? Total { get; set; }
+        public double Total { get; set; }
 
     }
 }

@@ -29,7 +29,7 @@ namespace SoftP.ApiDotNet.Api.Controllers
 
             var result = await _financeService.GetInvestimentResult(financeDto);
             if (result.IsSuccess)
-                return Ok(result.Data?.Total);
+                return Ok(string.Format("{0:0.#0}", result.Data));
 
             return BadRequest(result);
         }

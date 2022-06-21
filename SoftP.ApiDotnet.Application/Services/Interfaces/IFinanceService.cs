@@ -5,7 +5,7 @@ namespace SoftP.ApiDotNet.Application.Services.Interfaces
 {
     public interface IFinanceService
     {
-        Task<ResultService<FinanceDTO>> GetInvestimentResult(FinanceDTO finance);
+        Task<ResultService<decimal>> GetInvestimentResult(FinanceDTO finance);
 
         decimal GetInterestRate(decimal interestRate);
     }
